@@ -1,0 +1,42 @@
+{
+  "events": [
+    {
+      "title": "Event 3",
+      "image": "https://forbes.co/_next/image?url=https%3A%2F%2Fcdn.forbes.co%2F2020%2F09%2FMedell%C3%ADn-foto-ProColombia.jpg%3Fv%3D20471365&w=3840&q=75",
+      "date": "2025-01-09",
+      "description": "A test test test",
+      "id": "85f586df-0cd9-452c-ae88-7f5e1283328a"
+    },
+    {
+      "title": "my new event",
+      "image": "https://img.static-kl.com/images/media/92920BE9-2C5B-425F-9843732EB24D0A2D",
+      "date": "2024-12-28",
+      "description": "Test description",
+      "id": "64d628af-fe40-466d-b4cc-e3f493e4416e"
+    },
+    {
+      "title": "Test",
+      "image": "https://media.cnn.com/api/v1/images/stellar/prod/230519153808-01-quito-ecuador-top.jpg?q=w_2000,c_fill/f_webp",
+      "date": "2023-11-09",
+      "description": "test",
+      "id": "cc0bc2f9-10a8-4d73-aa4a-1e83be9fc96b"
+    }
+  ],
+  "users": [
+    {
+      "email": "test@test.com",
+      "password": "$2a$12$59zCyMkPpIDcnCRTH23xJuBAnCZ82eIK4AAd5hxEtPCk6Uht6XY0m",
+      "id": "7c0f7e7f-9da2-4680-81d9-b7a5499c1125"
+    },
+    {
+      "email": "test2@test.com",
+      "password": "$2a$12$AkRo.jn2LMPSfV7SbAeNv.sOt43O7Bch1IIV29RS1i2Ko2x4aRpMO",
+      "id": "9f296985-a49f-4b2d-8f50-f724afc7d0ac"
+    },
+    {
+      "email": "mynewemail@test.com",
+      "password": "$2a$12$x2L5MPaWgOCv2A9JOf6kq.EJAfF6u/HFTWCeIHCUbdzVyl9wA0phe",
+      "id": "92e10352-a3a8-4651-b453-c9f9b0e6fd9d"
+    }
+  ]
+}
